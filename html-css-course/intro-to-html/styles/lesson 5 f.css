@@ -1,0 +1,32 @@
+
+
+p{
+  font-family: arial;
+  margin: 0px;
+}
+
+.money{
+  font-size: 32px;
+
+}
+
+.USD{
+  font-size: 16px;
+  color: grey;
+}
+
+.today{
+  color: rgb(24, 128, 56);
+  margin-top: 5px;
+}
+
+.After{
+  color: grey;
+  margin-top: 5px;
+}
+
+.red{
+  color: rgb(255, 0, 0);
+}
+
+

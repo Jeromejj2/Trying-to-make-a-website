@@ -1,0 +1,56 @@
+
+
+.BTA {
+  color: rgb(0, 113, 113);
+}
+
+.BTA:hover{
+  color: rgb(199, 81, 31);
+}
+
+.Nike{
+  margin-top: 25px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.stock{
+  color: rgb(0, 118, 0);
+  font-family: Arial;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+button{
+  margin-top: 5px;
+  border: none;
+  height: 33px;
+  width: 110px;
+  cursor: pointer;
+  margin-right: 8px;
+  font-weight: bold;
+  border-radius: 15px;
+}
+
+button:active{
+  opacity: 0.5;
+}
+
+.Amazon{
+  background-color: rgb(255, 216, 20);
+}
+
+.Amazon:hover{
+  background-color: rgb(247, 202, 0);
+}
+
+.Amazon2{
+  background-color: rgb(255, 164, 24);
+}
+
+.Amazon2:hover{
+  background-color: rgb(250, 137, 0);
+}
+
+
+

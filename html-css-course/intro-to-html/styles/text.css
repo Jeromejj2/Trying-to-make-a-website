@@ -1,0 +1,46 @@
+
+p{
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.vt{
+  font-weight: bold;
+  line-height: 24px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.vs{ 
+  font-size: 14px;
+  color: #606060;
+}
+
+.va{
+  font-size: 14px;
+  color: #606060;
+  margin-top: 20px;
+}
+
+.vd{
+  font-size: 14px;
+  color: #606060;
+  line-height: 22px;
+  margin-top: 20px;
+  margin-bottom: 100px;
+}
+
+.apple{
+  font-size: 14;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.sc:hover{
+text-decoration: underline;
+}
+

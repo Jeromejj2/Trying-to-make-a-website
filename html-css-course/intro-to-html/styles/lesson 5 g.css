@@ -1,0 +1,23 @@
+p{
+  font-family: arial;
+}
+
+
+.free{
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.org{
+  color: grey;
+  font-weight: 100px;
+}
+  
+.deveioper{
+margin-bottom: 15px;
+font-weight: 200;
+}
+
+.it{
+  color: rgb(8, 123, 218);
+}

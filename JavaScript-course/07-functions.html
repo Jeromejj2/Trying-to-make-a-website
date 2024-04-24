@@ -16,12 +16,14 @@
         function1();
         */
         
-        function CalculataTax(parmramter1) {
-            console.log(parmramter1 * 0.1)
+        function CalculataTax(cost, percent = 0.1) {
+            console.log(cost * percent)
         };
-
-        CalculataTax(3000)
+       
+        
+        CalculataTax(3000, 0.6)
         CalculataTax(5000)
+        
     </script>
   </body>
 </html>

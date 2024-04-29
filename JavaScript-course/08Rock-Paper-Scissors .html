@@ -16,11 +16,19 @@
 
 
     <button onclick="
-
     playGame ('Scissors')
-
-    
     ">Scissors</button>
+
+    <button onclick="
+    alert (`Reset Score
+Win: ${score.wins},  Losses: ${score.losses},  Tie: ${score.tie}`)
+    score.wins = 0
+    score.losses = 0
+    score.tie = 0
+    ">
+      Reset Score
+    </button>
+
     <script>
       const score = {
         wins: 0,
@@ -87,9 +95,9 @@
           console.log (score)
 
           alert(`You picked ${playMove}. Computer picked ${CompuMove}. ${resuit}.
-${score}`);
-      }
+Win: ${score.wins},  Losses: ${score.losses},  Tie: ${score.tie}`);
 
+      }
     </script>
   </body>
 </html>
